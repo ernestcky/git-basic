@@ -3,3 +3,5 @@ New content
 add: stage the file
 commit: commit the file (record it in the branch)
 push: upload to remote branch
+
+Edit something
