@@ -17,15 +17,19 @@ Other useful commands to see what is going on the git repository:
 
 ## Exercises
 
-- [ ] Fork this repo
-- [ ] Clone this repo
-- [ ] Update the README: add some lines to the end and push them to GitHub
-- [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
-- [ ] Update newfile.txt and push the changes to GitHub
-- [ ] Open the repository on GitHub and make changes to `newfile.txt`
-- [ ] Pull the changes to your local repository
-- [ ] Create a new branch named "branch-1" and push to Github
+- [1] Fork this repo
+- [2] Clone this repo
+- [3] Update the README: add some lines to the end and push them to GitHub
+- [4] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
+- [5] Update newfile.txt and push the changes to GitHub
+- [6] Open the repository on GitHub and make changes to `newfile.txt`
+- [7] Pull the changes to your local repository
+- [8] Create a new branch named "branch-1" and push to Github
 
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+## Added some line
+LALALALA
+HAHAHAHA
